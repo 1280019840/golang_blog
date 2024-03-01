@@ -10,36 +10,36 @@
 * ...
 
 
-#### 文件介绍
-* assets：静态资源，js文件等
-* common：系统的配置文件、中间件、工具类等
-* controller：控制器文件，对请求做处理
-* models：数据库，用户数据映射模型
-* service：服务层处理业务
-* static：保存上传文件
-* templates：前端模板
+#### File introduction
+* assets: static resources, js files, etc
+* common: system configuration files, middleware, tools, etc
+* controller: Controller file that handles requests
+* models: Database, user data mapping model
+* service: The service layer processes services
+* static: saves the uploaded file
+* templates: front-end template
   
 ![image](https://github.com/1280019840/golang_blog/raw/main/img/blog2.png)
 
-### 使用
-* go语言环境
-* MySQL数据库
-* 等环境
+### Use
+* go language environment
+* MySQL Database
+* equal environment
   
-1.项目克隆到本地
+1. Clone the project to a local computer
 ```
 gi clone https://github.com/1280019840/golang_blog.git
 ```
-2.安装依赖
+2. Install dependencies
 ```
 go mod tidy
 ```
-3.启动项目
+3. Start the project
 ```
 go run main.go
 ```
 
-### 效果展示
+### Effect display
 ![image](https://github.com/1280019840/golang_blog/raw/main/img/home1.png)
 ![image](https://github.com/1280019840/golang_blog/raw/main/img/home2.png)
 ![image](https://github.com/1280019840/golang_blog/raw/main/img/home3.png)
@@ -55,5 +55,5 @@ go run main.go
 ![image](https://github.com/1280019840/golang_blog/raw/main/img/blog_list.png)
 ![image](https://github.com/1280019840/golang_blog/raw/main/img/blog_add.png)
 
-#### 还有的页面可下载源码查看<br>
-#### 感谢观看，记得star谢谢
+#### There are pages to download source code view<br>
+#### Thanks for watching, remember star thank
