@@ -1,2 +1,2 @@
-# golang_blog
+# 项目简介
 Blog project written by golang
