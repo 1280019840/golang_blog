@@ -18,7 +18,7 @@
 * service：服务层处理业务
 * static：保存上传文件
 * templates：前端模板
-* 
+  
 ![image](https://github.com/1280019840/golang_blog/raw/main/img/blog2.png)
 
 ### 使用
