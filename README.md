@@ -11,13 +11,13 @@
 
 
 #### 文件介绍
-* assets: static resources, js files, etc
-* common: system configuration files, middleware, tools, etc
-* controller: Controller file that handles requests
-* models: Database, user data mapping model
-* service: The service layer processes services
-* static: saves the uploaded file
-* templates: front-end template
+* assets: 静态资源，js文件等
+* common: 系统配置文件、中间件、工具等
+* controller: 处理请求的控制器文件
+* models: 数据库，用户数据映射模型
+* service: 服务层处理业务
+* static: 保存上传的文件
+* templates: 前端模板
   
 ![image](https://github.com/1280019840/golang_blog/raw/main/img/blog2.png)
 
