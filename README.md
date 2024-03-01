@@ -39,4 +39,17 @@ go run main.go
 ```
 
 ### 效果展示
+![image](https://github.com/1280019840/golang_blog/raw/main/img/home1.png)
+![image](https://github.com/1280019840/golang_blog/raw/main/img/home2.png)
+![image](https://github.com/1280019840/golang_blog/raw/main/img/home3.png)
 
+![image](https://github.com/1280019840/golang_blog/raw/main/img/details1.png)
+![image](https://github.com/1280019840/golang_blog/raw/main/img/details2.png)
+
+![image](https://github.com/1280019840/golang_blog/raw/main/img/admin.png)
+
+![image](https://github.com/1280019840/golang_blog/raw/main/img/channel_list.png)
+![image](https://github.com/1280019840/golang_blog/raw/main/img/channel_add.png)
+
+![image](https://github.com/1280019840/golang_blog/raw/main/img/blog_list.png)
+![image](https://github.com/1280019840/golang_blog/raw/main/img/blog_add.png)
