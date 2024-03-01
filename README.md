@@ -19,7 +19,7 @@
 * static：保存上传文件
 * templates：前端模板
 * 
-![image](https://github.com/1280019840/golang_blog/raw/main/img/blog1.png)
+![image](https://github.com/1280019840/golang_blog/raw/main/img/blog2.png)
 
 ### 使用
 * go语言环境
