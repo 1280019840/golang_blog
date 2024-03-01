@@ -54,3 +54,6 @@ go run main.go
 
 ![image](https://github.com/1280019840/golang_blog/raw/main/img/blog_list.png)
 ![image](https://github.com/1280019840/golang_blog/raw/main/img/blog_add.png)
+
+#### 还有的页面可下载源码查看<br>
+#### 感谢观看，记得star谢谢
