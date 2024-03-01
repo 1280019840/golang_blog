@@ -21,4 +21,18 @@
 
 
 ### 使用
-
+* go语言环境
+* MySQL数据库
+* 等环境
+1.项目克隆到本地
+```
+gi clone https://github.com/1280019840/golang_blog.git
+```
+2.安装依赖
+```
+go mod tidy
+```
+3.启动项目
+```
+go run main.go
+```
