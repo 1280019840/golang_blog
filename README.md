@@ -28,7 +28,7 @@
   
 1. 项目克隆到本地
 ```
-gi clone https://github.com/1280019840/golang_blog.git
+git clone https://github.com/1280019840/golang_blog.git
 ```
 2. 安装依赖
 ```
